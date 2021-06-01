@@ -1,0 +1,22 @@
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+warnings
+SciPy
+scipy
+geojsoncontour
+branca
+folium
+geopandas(to be installed manually -> #https://geoffboeing.com/2014/09/using-geopandas-windows/ )
+geopy
+DateTime
+math
+random
+pygeoj
+
+
+# included all the commands to use to install dependencies in notebook
+# use 	instruction of this link https://geoffboeing.com/2014/09/using-geopandas-windows
+# install anaconda and create new envrionment to use geopandas with proper python version 
